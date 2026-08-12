@@ -1,0 +1,25 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/portfolio/CRD001-after"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "accountId": "CRD001",
+      "balanced": true,
+      "totalAssets": 100000.00,
+      "vestedPercentage": 100,
+      "holdings": [
+        { "symbol": "IBM", "targetPercent": 20, "currentPercent": 20, "unitPrice": 150 },
+        { "symbol": "MSFT", "targetPercent": 20, "currentPercent": 20, "unitPrice": 90 },
+        { "symbol": "ORCL", "targetPercent": 20, "currentPercent": 20, "unitPrice": 220 },
+        { "symbol": "AAPL", "targetPercent": 20, "currentPercent": 20, "unitPrice": 250 },
+        { "symbol": "HD", "targetPercent": 20, "currentPercent": 20, "unitPrice": 70 }
+      ]
+    }
+  }
+}

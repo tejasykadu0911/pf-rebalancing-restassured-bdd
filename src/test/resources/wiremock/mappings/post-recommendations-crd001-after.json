@@ -1,0 +1,22 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/api/recommendations/CRD001-after"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "accountId": "CRD001",
+      "recommendations": [
+        { "symbol": "IBM",  "action": "HOLD", "shares": 0 },
+        { "symbol": "MSFT", "action": "HOLD", "shares": 0  },
+        { "symbol": "ORCL", "action": "HOLD", "shares": 0 },
+        { "symbol": "AAPL", "action": "HOLD", "shares": 0  },
+        { "symbol": "HD",   "action": "HOLD", "shares": 0  }
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"Portfolio Management","Scenario for charles river balancer technical assessment","verify account portfolio is not balanced","0","0","1","0","0"
+"Portfolio Management","Scenario for charles river balancer technical assessment","verify rebalancing recommendations for account CRD001","0","0","1","0","0"
+"Portfolio Management","Scenario for charles river balancer technical assessment","verify sum of account target and current after rebalancing is 100","0","0","1","0","0"
+"Portfolio Management","Scenario for charles river balancer technical assessment","Perform rebalancing recommendations for account CRD001","0","0","1","0","0"
+"Portfolio Management","Scenario for charles river balancer technical assessment","verify sum of account target and current before rebalancing is 100","0","0","1","0","0"
+"Portfolio Management","Scenario for charles river balancer technical assessment","verify rebalancing recommendations for account CRD001 after rebalancing","0","0","1","0","0"
+"Portfolio Management","Scenario for charles river balancer technical assessment","verify account portfolio is balanced","0","0","1","0","0"
